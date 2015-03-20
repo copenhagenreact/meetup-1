@@ -8,5 +8,4 @@ Slides from Meetup #1
 
 # Thanks for the great turnout!
 
-
-![Pushing 100](https://pbs.twimg.com/media/CAefi9HUkAAWpzF.jpg)
+![Pushing 100](https://github.com/copenhagenreact/meetup-1/raw/master/CAefi9HUkAAWpzF.jpg-large.jpeg)
